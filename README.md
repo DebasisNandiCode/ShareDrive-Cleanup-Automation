@@ -27,13 +27,13 @@ This project automates the deletion of .xlsx and .csv files from a shared drive 
    cd ShareDrive-Cleanup-Automation 
 
 2. Create a .env file in the root directory:
-  SHARE_DRIVE_PATH=\\10.xxx.xxx.254\Enterprise\reporting\reports
-  ONE_DRIVE_URL=https://yourcompany.sharepoint.com/sites/your-site
-  ONE_DRIVE_FOLDER=/YourTargetFolder
-  CentDB_HOST=your-db-server
-  CentDB_DATABASE=your-db-name
-  CentDB_USER=your-db-user
-  CentDB_PASSWORD=your-db-password
+  i) SHARE_DRIVE_PATH=\\10.xxx.xxx.254\Enterprise\reporting\reports
+  ii) ONE_DRIVE_URL=https://yourcompany.sharepoint.com/sites/your-site
+  iii) ONE_DRIVE_FOLDER=/YourTargetFolder
+  iv) CentDB_HOST=your-db-server
+  v) CentDB_DATABASE=your-db-name
+  vi) CentDB_USER=your-db-user
+  vii) CentDB_PASSWORD=your-db-password
 
 ## Configuration
   1. SharePoint Configuration:
