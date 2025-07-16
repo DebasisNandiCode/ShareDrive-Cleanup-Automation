@@ -1,0 +1,6 @@
+{
+    "Subject": "Files Deleted from Share Drive Folder",
+    "TO_EMAIL": "Debasis.Nandi@xxxxxxxx.com",
+    "CC_EMAIL": "Debasis.Nandi@xxxxxxxx.com",
+    "HTML_Body": "Hello Team,<br><br>The {num_deleted} files have been deleted from the Share Drive folder:<br><br><b>Folder Path:</b> \\\\10.xxx.xxx.254\\Enterprise\\reporting\\reports<br><br>Regards,<br>Automation Team"
+}
